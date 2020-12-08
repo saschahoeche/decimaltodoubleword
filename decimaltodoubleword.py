@@ -10,7 +10,6 @@ def ddConverter(decimalInput):
         isNegativFlag = False
     
     byteDecimal = bin(decimalInput)
-    print(byteDecimal)
     
     # pad with zeros to fill 4 bytes
     if isNegativFlag:

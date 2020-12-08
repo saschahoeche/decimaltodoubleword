@@ -1,1 +1,1 @@
-from decimaltodoubleword import ddConverter
+from decimaltodoubleword.decimaltodoubleword import ddConverter
