@@ -1,3 +1,7 @@
+"""Function to convert a decimal integer to four byte doubleword"""
+
+__version__ = '1.0.0'
+
 def ddConverter(decimalInput):
     '''
     Takes a decimal integer and returns a list of decimal byte values\n
