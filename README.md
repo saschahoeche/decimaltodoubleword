@@ -9,7 +9,7 @@ Igus Dryve D1 controller.
 Import with:
 
 ```python
-from decimaldoubleword import ddConverter as conv
+from decimaltodoubleword import ddConverter as conv
 ```
 
 Now calling conv() with a decimal argument returns a correctly
